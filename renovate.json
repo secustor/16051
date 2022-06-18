@@ -4,6 +4,6 @@
     "config:base"
   ],
   "fleet": {
-    "fileMatch": [".*\.ya?ml"] 
+    "fileMatch": [".*\\.ya?ml"] 
   }
 }
