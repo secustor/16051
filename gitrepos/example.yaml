@@ -5,7 +5,7 @@ metadata:
   namespace: fleet-local
 spec:
   repo: https://github.com/rancher/rancher
-  revision: v2.5.0
+  revision: v2.6.5
   paths:
     - simple
 ---
