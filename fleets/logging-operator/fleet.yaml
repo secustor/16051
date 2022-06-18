@@ -3,5 +3,5 @@ helm:
   chart: logging-operator
   repo: "https://kubernetes-charts.banzaicloud.com"
   releaseName: logging-operator
-  version: 3.16.0
+  version: 3.17.7
   values:
