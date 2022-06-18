@@ -1,0 +1,7 @@
+defaultNamespace: logging-system
+helm:
+  chart: logging-operator
+  repo: "https://kubernetes-charts.banzaicloud.com"
+  releaseName: logging-operator
+  version: 3.16.0
+  values:
