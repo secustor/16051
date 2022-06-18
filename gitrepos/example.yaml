@@ -16,6 +16,6 @@ metadata:
   namespace: fleet-local
 spec:
   repo: https://github.com/renovatebot/renovate
-  revision: 31.0.0
+  revision: 32.89.3
   paths:
     - simple
